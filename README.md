@@ -1,16 +1,17 @@
-### Hi there 👋
+### About
 
-<!--
-**temarusanov/temarusanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there. My name is Tema. I'm a Backend Blockchain Developer. Love to learn new things, and try to share them to everyone.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NodeJS, Nx, NestJS, TypeScript, TypeORM, Prisma
+- GraphQL, RestAPI, gRPC
+- NATS, RabbitMQ
+- Linux, Docker, Gitlab CI/CD, Ansible
+- Grafana, Loki, Prometheus
+- Bitcoin, Litecoin, Dogecoin, Ethereum, Tron, Polkadot, EOS, Avalanche
+- Solidity, GP Subgraphs, Web3, Ethers.js, Hardhat
+
+### Projects
+
+I’m currently working on my open-source project called **Workspace**. You can check out it [here](https://github.com/tinybudgie)
