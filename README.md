@@ -14,4 +14,5 @@ Hi there. My name is Tema. I'm a Backend Blockchain Developer. Love to learn new
 
 ### Projects
 
-I’m currently working on my open-source project called **Workspace**. You can check out it [here](https://github.com/tinybudgie)
+- Creator of [@tinybudgie](https://github.com/voltplanner). Open-source task tracker
+- Boilterplate and packages [@tinybudgie](https://github.com/tinybudgie)
