@@ -14,5 +14,5 @@ Hi there. My name is Tema. I'm a Backend Blockchain Developer. Love to learn new
 
 ### Projects
 
-- Creator of  [Volt](https://github.com/voltplanner). Open-source task management app
+- Creator of  [Volt](https://github.com/voltplanner). Task management app
 - Create packages in [@shelf](https://github.com/temarusanov/shelf)
