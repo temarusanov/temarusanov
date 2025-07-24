@@ -5,6 +5,7 @@ Hi there. My name is Tema. I'm a Senior Software Engineer. Currently backend dev
 ### Skills
 
 - NodeJS, Nx, NestJS, TypeScript, TypeORM, Prisma
+- AI: Langchain, RAG, LLM, AI Agents
 - GraphQL, RestAPI, gRPC
 - NATS, RabbitMQ
 - Linux, Docker, Gitlab CI/CD, Ansible, Terraform
